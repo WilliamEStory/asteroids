@@ -1,0 +1,1 @@
+Make sure to setup venv venv/bin/activate
