@@ -1,1 +1,1 @@
-Make sure to setup venv venv/bin/activate
+Make sure to setup source venv/bin/activate
